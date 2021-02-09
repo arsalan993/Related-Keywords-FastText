@@ -1,0 +1,7 @@
+/.env
+/model/
+/sen_tokens.pkl
+/data.json
+/clean_data.csv
+/tokenized_data.csv
+/venv/
